@@ -1,0 +1,1001 @@
+cliente_id,producto,fecha_registro,monto,estado
+1,Perfume Chanel Nº5,19/10/2024,669,inactivo
+3,Shampoo Pantene,18/3/2024,215,inactivo
+5,Labial MAC Ruby Woo,12/5/2025,676,activo
+3,Crema hidratante Nivea,7/9/2024,649,inactivo
+5,,7/4/2024,721,inactivo
+1,Crema hidratante Nivea,21/6/2025,289,inactivo
+5,Crema hidratante Nivea,3/5/2025,572,inactivo
+3,Labial MAC Ruby Woo,27/6/2025,617,activo
+4,Perfume Chanel Nº5,22/1/2024,434,inactivo
+3,Body Splash Victoria's Secret,11/5/2024,758,activo
+1,Perfume Carolina Herrera 212,8/1/2025,577,inactivo
+3,Desodorante Dove,6/2/2025,629,inactivo
+4,Perfume Chanel Nº5,6/6/2025,393,activo
+4,Body Splash Victoria's Secret,29/6/2024,382,inactivo
+3,Perfume Chanel Nº5,20/3/2024,716,activo
+4,Crema antiarrugas L'Oréal,28/10/2024,697,activo
+1,Crema antiarrugas L'Oréal,21/1/2024,546,inactivo
+5,Base Maybelline Fit Me,7/4/2025,545,inactivo
+3,Base Maybelline Fit Me,21/3/2025,288,activo
+3,Labial MAC Ruby Woo,24/5/2025,459,inactivo
+4,Body Splash Victoria's Secret,25/6/2024,442,inactivo
+3,Agua micelar Garnier,7/5/2024,754,inactivo
+5,Crema hidratante Nivea,23/2/2025,309,inactivo
+4,Body Splash Victoria's Secret,19/4/2025,321,activo
+4,Body Splash Victoria's Secret,21/5/2025,,activo
+5,Shampoo Pantene,11/6/2025,603,activo
+4,Crema antiarrugas L'Oréal,31/12/2024,544,inactivo
+4,Crema hidratante Nivea,30/9/2024,,activo
+4,Shampoo Pantene,15/5/2025,679,activo
+5,,28/11/2024,,inactivo
+4,Shampoo Pantene,17/7/2024,636,inactivo
+3,Shampoo Pantene,29/8/2024,385,inactivo
+3,Base Maybelline Fit Me,15/12/2024,749,inactivo
+1,,12/12/2024,731,inactivo
+4,Perfume Carolina Herrera 212,2/2/2025,445,inactivo
+5,Perfume Chanel Nº5,17/11/2024,743,inactivo
+5,Labial MAC Ruby Woo,1/5/2025,758,activo
+1,Crema antiarrugas L'Oréal,10/10/2024,,inactivo
+4,Body Splash Victoria's Secret,3/10/2024,249,inactivo
+5,Base Maybelline Fit Me,30/8/2024,676,inactivo
+1,Shampoo Pantene,16/9/2024,408,activo
+2,Base Maybelline Fit Me,26/6/2025,292,activo
+4,Perfume Carolina Herrera 212,29/7/2024,450,inactivo
+2,Crema antiarrugas L'Oréal,31/5/2025,721,inactivo
+5,Base Maybelline Fit Me,25/7/2024,402,activo
+2,Perfume Chanel Nº5,11/6/2024,256,activo
+4,Shampoo Pantene,1/2/2024,408,activo
+3,Labial MAC Ruby Woo,12/10/2024,702,activo
+4,Perfume Chanel Nº5,26/7/2024,467,activo
+3,Crema antiarrugas L'Oréal,15/9/2024,621,activo
+1,Desodorante Dove,28/12/2024,606,inactivo
+4,Base Maybelline Fit Me,17/12/2024,781,inactivo
+4,Agua micelar Garnier,20/4/2025,513,inactivo
+1,Labial MAC Ruby Woo,17/1/2025,515,inactivo
+2,Shampoo Pantene,14/11/2024,747,inactivo
+5,Desodorante Dove,26/10/2024,780,inactivo
+1,Perfume Carolina Herrera 212,10/2/2024,429,inactivo
+2,Crema hidratante Nivea,11/10/2024,536,inactivo
+4,Perfume Carolina Herrera 212,19/3/2024,765,inactivo
+2,Perfume Carolina Herrera 212,7/2/2024,561,activo
+5,Perfume Carolina Herrera 212,24/5/2024,675,inactivo
+3,Desodorante Dove,20/4/2024,234,activo
+2,Agua micelar Garnier,25/10/2024,601,activo
+3,Body Splash Victoria's Secret,28/3/2025,684,inactivo
+1,Crema hidratante Nivea,28/1/2024,453,activo
+4,Body Splash Victoria's Secret,1/4/2025,299,activo
+1,Shampoo Pantene,25/3/2024,744,inactivo
+2,Crema hidratante Nivea,23/2/2024,414,inactivo
+3,Agua micelar Garnier,2/4/2024,406,inactivo
+1,Crema antiarrugas L'Oréal,24/2/2025,721,inactivo
+4,Crema hidratante Nivea,20/1/2025,388,inactivo
+3,Perfume Carolina Herrera 212,7/11/2024,,activo
+5,Agua micelar Garnier,30/4/2024,435,inactivo
+2,Desodorante Dove,17/12/2024,319,activo
+1,Perfume Carolina Herrera 212,3/8/2024,532,inactivo
+4,Labial MAC Ruby Woo,30/12/2024,684,inactivo
+5,Perfume Carolina Herrera 212,6/4/2024,734,inactivo
+5,Agua micelar Garnier,11/6/2025,485,activo
+5,Crema hidratante Nivea,6/6/2025,614,activo
+5,Body Splash Victoria's Secret,2/7/2024,,inactivo
+5,Crema hidratante Nivea,15/11/2024,601,inactivo
+2,Perfume Carolina Herrera 212,28/5/2024,724,activo
+1,Body Splash Victoria's Secret,22/10/2024,723,activo
+1,Crema antiarrugas L'Oréal,5/11/2024,783,inactivo
+2,Crema hidratante Nivea,31/7/2024,554,inactivo
+4,Agua micelar Garnier,19/6/2024,764,activo
+3,Perfume Carolina Herrera 212,13/8/2024,639,inactivo
+4,Base Maybelline Fit Me,29/9/2024,648,activo
+5,Shampoo Pantene,28/9/2024,337,activo
+2,Crema hidratante Nivea,17/2/2025,773,activo
+1,Perfume Chanel Nº5,12/2/2024,513,activo
+3,Agua micelar Garnier,22/6/2025,267,inactivo
+3,Labial MAC Ruby Woo,27/3/2024,478,activo
+2,Labial MAC Ruby Woo,4/5/2024,679,activo
+3,Desodorante Dove,22/3/2025,652,activo
+4,,6/3/2024,,activo
+2,Shampoo Pantene,5/12/2024,420,activo
+4,Perfume Chanel Nº5,20/6/2024,683,activo
+3,Labial MAC Ruby Woo,21/6/2024,597,activo
+3,Base Maybelline Fit Me,14/6/2024,609,activo
+4,Crema antiarrugas L'Oréal,22/6/2025,748,activo
+5,Perfume Chanel Nº5,6/3/2024,339,inactivo
+5,Perfume Carolina Herrera 212,18/1/2024,279,activo
+4,Crema hidratante Nivea,12/3/2024,620,activo
+2,Body Splash Victoria's Secret,10/2/2024,245,inactivo
+2,Perfume Chanel Nº5,18/1/2025,278,inactivo
+2,Crema hidratante Nivea,25/2/2025,,activo
+4,Perfume Carolina Herrera 212,5/3/2024,533,activo
+3,Base Maybelline Fit Me,19/4/2025,597,inactivo
+3,Base Maybelline Fit Me,19/4/2024,456,inactivo
+5,Shampoo Pantene,25/7/2024,244,activo
+4,Perfume Carolina Herrera 212,8/12/2024,202,activo
+1,Labial MAC Ruby Woo,10/3/2025,539,activo
+3,Crema hidratante Nivea,24/11/2024,594,activo
+4,Desodorante Dove,7/5/2025,,activo
+4,Shampoo Pantene,14/2/2024,761,inactivo
+2,Body Splash Victoria's Secret,25/1/2025,592,activo
+1,Labial MAC Ruby Woo,27/10/2024,615,inactivo
+4,Base Maybelline Fit Me,8/8/2024,508,activo
+1,Labial MAC Ruby Woo,20/3/2024,796,inactivo
+1,Shampoo Pantene,2/6/2024,605,activo
+3,Perfume Chanel Nº5,8/3/2025,263,inactivo
+1,Crema hidratante Nivea,3/2/2024,666,activo
+5,Crema antiarrugas L'Oréal,18/6/2024,524,inactivo
+4,Crema hidratante Nivea,25/8/2024,208,activo
+4,Perfume Chanel Nº5,17/10/2024,369,activo
+5,Desodorante Dove,18/6/2024,541,inactivo
+2,Desodorante Dove,10/1/2025,347,inactivo
+4,Body Splash Victoria's Secret,8/8/2024,763,activo
+5,Base Maybelline Fit Me,23/12/2024,648,activo
+3,Perfume Carolina Herrera 212,24/6/2024,623,activo
+1,Crema antiarrugas L'Oréal,12/2/2025,402,inactivo
+2,Agua micelar Garnier,17/12/2024,501,inactivo
+4,Labial MAC Ruby Woo,24/10/2024,213,inactivo
+5,Labial MAC Ruby Woo,28/1/2024,,inactivo
+3,Base Maybelline Fit Me,25/2/2024,722,inactivo
+2,Perfume Chanel Nº5,27/6/2025,707,activo
+1,Perfume Chanel Nº5,22/11/2024,528,inactivo
+2,Body Splash Victoria's Secret,1/5/2025,588,inactivo
+2,Shampoo Pantene,26/4/2024,549,inactivo
+1,Desodorante Dove,30/3/2024,312,activo
+4,Agua micelar Garnier,10/6/2025,303,inactivo
+2,Labial MAC Ruby Woo,26/3/2024,631,inactivo
+2,Body Splash Victoria's Secret,2/1/2024,,inactivo
+1,Shampoo Pantene,1/3/2025,263,activo
+4,Crema hidratante Nivea,31/1/2025,530,activo
+1,Labial MAC Ruby Woo,24/12/2024,593,inactivo
+3,Body Splash Victoria's Secret,29/9/2024,657,inactivo
+5,Crema hidratante Nivea,21/4/2024,600,inactivo
+5,Crema antiarrugas L'Oréal,3/7/2024,317,inactivo
+2,Labial MAC Ruby Woo,8/6/2024,210,inactivo
+4,Base Maybelline Fit Me,4/1/2025,461,inactivo
+1,Shampoo Pantene,21/6/2024,615,activo
+4,Perfume Chanel Nº5,30/6/2025,656,inactivo
+3,Crema hidratante Nivea,1/1/2025,628,activo
+5,Crema antiarrugas L'Oréal,16/2/2025,357,inactivo
+2,Desodorante Dove,22/10/2024,289,activo
+3,Crema antiarrugas L'Oréal,24/10/2024,212,inactivo
+5,Shampoo Pantene,24/2/2024,322,inactivo
+5,Desodorante Dove,28/9/2024,326,inactivo
+5,Crema antiarrugas L'Oréal,6/7/2024,603,activo
+1,Agua micelar Garnier,1/6/2024,439,inactivo
+2,Perfume Carolina Herrera 212,5/5/2024,737,activo
+1,Base Maybelline Fit Me,19/5/2024,254,activo
+4,Shampoo Pantene,26/3/2024,645,inactivo
+1,Perfume Chanel Nº5,24/10/2024,201,inactivo
+5,Crema antiarrugas L'Oréal,5/6/2025,718,inactivo
+4,Desodorante Dove,16/8/2024,562,inactivo
+1,Agua micelar Garnier,11/5/2025,646,inactivo
+4,Base Maybelline Fit Me,22/2/2025,259,inactivo
+2,Perfume Carolina Herrera 212,24/2/2024,260,inactivo
+4,Shampoo Pantene,27/3/2025,233,activo
+2,Perfume Chanel Nº5,21/7/2024,232,inactivo
+5,Shampoo Pantene,13/12/2024,731,activo
+2,Shampoo Pantene,28/1/2024,566,inactivo
+4,Labial MAC Ruby Woo,6/4/2025,534,activo
+2,Perfume Carolina Herrera 212,11/8/2024,543,inactivo
+3,Body Splash Victoria's Secret,4/6/2024,796,inactivo
+1,Crema hidratante Nivea,12/2/2024,422,activo
+4,Agua micelar Garnier,9/2/2025,404,activo
+1,Base Maybelline Fit Me,25/7/2024,263,activo
+3,Labial MAC Ruby Woo,8/5/2024,354,activo
+4,Body Splash Victoria's Secret,12/5/2024,394,activo
+2,Crema antiarrugas L'Oréal,7/6/2024,752,inactivo
+1,Crema antiarrugas L'Oréal,28/2/2024,792,activo
+4,Agua micelar Garnier,23/12/2024,620,activo
+2,Crema hidratante Nivea,16/5/2024,786,activo
+4,Crema hidratante Nivea,18/7/2024,591,activo
+3,Labial MAC Ruby Woo,15/4/2024,628,activo
+3,Perfume Chanel Nº5,11/1/2024,387,inactivo
+3,Crema hidratante Nivea,6/8/2024,202,inactivo
+5,Base Maybelline Fit Me,25/1/2024,661,inactivo
+2,Base Maybelline Fit Me,31/1/2024,470,inactivo
+1,Desodorante Dove,13/4/2024,503,inactivo
+3,Crema hidratante Nivea,2/4/2025,227,activo
+1,Perfume Chanel Nº5,18/2/2024,721,activo
+1,Desodorante Dove,26/11/2024,207,inactivo
+2,Desodorante Dove,21/5/2025,337,activo
+4,Perfume Carolina Herrera 212,5/3/2024,687,inactivo
+2,Perfume Chanel Nº5,10/3/2024,265,inactivo
+4,Perfume Carolina Herrera 212,11/12/2024,498,inactivo
+1,Crema hidratante Nivea,28/3/2024,550,inactivo
+4,,29/10/2024,273,activo
+5,Perfume Chanel Nº5,4/2/2025,784,inactivo
+4,Labial MAC Ruby Woo,3/6/2024,759,activo
+1,Shampoo Pantene,21/5/2024,446,inactivo
+2,Crema antiarrugas L'Oréal,14/10/2024,470,inactivo
+2,Perfume Carolina Herrera 212,8/5/2024,642,inactivo
+3,Agua micelar Garnier,5/3/2025,303,inactivo
+4,Base Maybelline Fit Me,14/2/2024,264,activo
+2,Agua micelar Garnier,10/6/2024,255,inactivo
+5,Perfume Chanel Nº5,1/4/2025,690,inactivo
+2,Crema hidratante Nivea,30/5/2024,734,activo
+1,Body Splash Victoria's Secret,4/7/2024,242,inactivo
+5,Crema antiarrugas L'Oréal,1/8/2024,317,activo
+3,Desodorante Dove,14/4/2025,716,activo
+5,Base Maybelline Fit Me,21/1/2024,338,activo
+2,Labial MAC Ruby Woo,11/3/2024,317,activo
+3,Body Splash Victoria's Secret,6/11/2024,651,activo
+4,Agua micelar Garnier,23/8/2024,708,activo
+5,Shampoo Pantene,14/1/2025,766,inactivo
+5,Perfume Chanel Nº5,9/5/2024,549,inactivo
+1,Desodorante Dove,10/7/2024,598,activo
+5,Body Splash Victoria's Secret,19/4/2024,760,inactivo
+3,Labial MAC Ruby Woo,22/4/2024,241,activo
+2,Body Splash Victoria's Secret,3/11/2024,670,activo
+2,Agua micelar Garnier,28/3/2024,608,activo
+5,Shampoo Pantene,6/5/2025,,inactivo
+3,Shampoo Pantene,31/3/2025,215,activo
+5,,21/1/2025,526,activo
+2,Crema antiarrugas L'Oréal,21/4/2025,431,activo
+2,Perfume Carolina Herrera 212,14/6/2024,400,activo
+2,Labial MAC Ruby Woo,31/3/2024,552,inactivo
+4,Agua micelar Garnier,19/1/2024,,activo
+2,Crema hidratante Nivea,16/1/2024,772,inactivo
+5,Crema antiarrugas L'Oréal,12/6/2024,547,inactivo
+4,Shampoo Pantene,11/1/2024,438,inactivo
+1,Crema antiarrugas L'Oréal,18/11/2024,337,inactivo
+1,Base Maybelline Fit Me,15/3/2024,,inactivo
+2,Base Maybelline Fit Me,1/8/2024,225,inactivo
+3,Perfume Chanel Nº5,28/4/2025,528,inactivo
+5,Shampoo Pantene,2/1/2024,762,inactivo
+2,Agua micelar Garnier,6/12/2024,299,inactivo
+5,Base Maybelline Fit Me,3/11/2024,453,inactivo
+3,Crema hidratante Nivea,23/7/2024,373,inactivo
+5,Perfume Chanel Nº5,16/6/2025,448,activo
+4,Desodorante Dove,9/10/2024,270,inactivo
+2,Desodorante Dove,16/2/2024,252,inactivo
+4,Desodorante Dove,3/8/2024,651,inactivo
+3,Crema hidratante Nivea,9/6/2025,386,activo
+2,Labial MAC Ruby Woo,10/2/2024,268,activo
+3,Shampoo Pantene,10/6/2024,691,inactivo
+2,Base Maybelline Fit Me,21/12/2024,714,inactivo
+3,Crema hidratante Nivea,30/6/2025,655,activo
+3,Crema hidratante Nivea,8/5/2025,418,activo
+4,Labial MAC Ruby Woo,9/4/2025,787,inactivo
+1,Perfume Carolina Herrera 212,1/4/2024,583,activo
+4,Crema antiarrugas L'Oréal,21/3/2025,493,activo
+2,Shampoo Pantene,10/4/2025,570,activo
+3,Labial MAC Ruby Woo,9/5/2024,751,activo
+2,Desodorante Dove,16/2/2025,253,inactivo
+4,Labial MAC Ruby Woo,21/7/2024,232,inactivo
+5,Body Splash Victoria's Secret,11/1/2024,442,inactivo
+1,Shampoo Pantene,30/9/2024,766,inactivo
+2,Crema hidratante Nivea,1/8/2024,535,activo
+4,Agua micelar Garnier,25/4/2025,402,inactivo
+2,Shampoo Pantene,15/10/2024,687,inactivo
+5,Perfume Carolina Herrera 212,9/4/2025,248,inactivo
+3,Perfume Chanel Nº5,7/6/2024,549,inactivo
+5,Base Maybelline Fit Me,22/8/2024,378,activo
+4,Crema hidratante Nivea,29/9/2024,256,inactivo
+3,Agua micelar Garnier,9/7/2024,247,activo
+1,Perfume Chanel Nº5,8/7/2024,380,activo
+2,Body Splash Victoria's Secret,28/8/2024,,inactivo
+3,Body Splash Victoria's Secret,28/10/2024,308,activo
+2,Perfume Chanel Nº5,30/4/2024,687,activo
+2,Perfume Carolina Herrera 212,19/3/2025,654,inactivo
+3,Crema hidratante Nivea,19/12/2024,368,activo
+5,Base Maybelline Fit Me,2/3/2024,475,inactivo
+5,Body Splash Victoria's Secret,12/4/2024,265,activo
+2,Base Maybelline Fit Me,9/8/2024,795,inactivo
+5,Perfume Chanel Nº5,16/9/2024,737,activo
+2,Crema antiarrugas L'Oréal,17/9/2024,465,activo
+2,Labial MAC Ruby Woo,19/1/2024,365,activo
+1,Perfume Carolina Herrera 212,1/6/2024,294,inactivo
+4,,19/2/2025,488,activo
+1,Perfume Carolina Herrera 212,10/2/2025,736,activo
+1,Perfume Chanel Nº5,22/6/2025,256,activo
+4,Crema antiarrugas L'Oréal,29/3/2024,744,activo
+1,Labial MAC Ruby Woo,17/6/2025,699,activo
+2,Body Splash Victoria's Secret,15/12/2024,373,inactivo
+4,Shampoo Pantene,18/1/2025,281,inactivo
+4,Perfume Carolina Herrera 212,23/4/2024,651,activo
+4,Body Splash Victoria's Secret,4/6/2024,782,inactivo
+4,,22/3/2025,313,activo
+5,Crema antiarrugas L'Oréal,14/3/2024,759,inactivo
+4,Shampoo Pantene,24/7/2024,496,activo
+3,Crema antiarrugas L'Oréal,2/6/2025,262,inactivo
+3,Base Maybelline Fit Me,6/4/2024,384,activo
+4,,8/1/2025,566,inactivo
+5,Base Maybelline Fit Me,22/2/2025,741,inactivo
+3,Perfume Carolina Herrera 212,22/3/2025,599,inactivo
+5,Crema antiarrugas L'Oréal,13/5/2025,754,inactivo
+3,,31/3/2025,269,inactivo
+4,Labial MAC Ruby Woo,14/7/2024,489,inactivo
+3,,18/8/2024,678,activo
+4,Body Splash Victoria's Secret,8/2/2024,,activo
+5,Shampoo Pantene,4/6/2024,422,activo
+3,Base Maybelline Fit Me,15/4/2025,373,inactivo
+2,Desodorante Dove,28/5/2024,348,activo
+3,Shampoo Pantene,4/5/2025,256,inactivo
+5,Base Maybelline Fit Me,8/5/2024,559,inactivo
+5,Desodorante Dove,11/10/2024,234,activo
+5,Body Splash Victoria's Secret,7/6/2024,600,activo
+4,Labial MAC Ruby Woo,21/2/2025,758,activo
+2,Perfume Chanel Nº5,9/3/2025,553,activo
+5,Shampoo Pantene,8/5/2025,652,inactivo
+2,Shampoo Pantene,9/2/2024,463,activo
+3,Crema antiarrugas L'Oréal,15/3/2025,560,activo
+5,Shampoo Pantene,2/6/2025,254,inactivo
+4,Shampoo Pantene,24/7/2024,696,inactivo
+4,Perfume Carolina Herrera 212,19/12/2024,,inactivo
+2,Desodorante Dove,29/4/2025,,activo
+3,Perfume Chanel Nº5,11/10/2024,542,activo
+1,Labial MAC Ruby Woo,7/7/2024,233,inactivo
+2,Perfume Chanel Nº5,7/1/2024,472,inactivo
+5,Perfume Carolina Herrera 212,9/2/2025,620,activo
+2,Perfume Chanel Nº5,15/7/2024,420,inactivo
+5,Base Maybelline Fit Me,1/7/2025,632,inactivo
+1,Labial MAC Ruby Woo,19/6/2024,793,inactivo
+3,Agua micelar Garnier,16/4/2024,575,inactivo
+1,Shampoo Pantene,10/4/2024,672,activo
+2,Crema hidratante Nivea,26/12/2024,302,activo
+4,Crema antiarrugas L'Oréal,22/3/2024,719,inactivo
+1,Labial MAC Ruby Woo,1/5/2024,449,activo
+4,Perfume Chanel Nº5,2/4/2025,637,activo
+3,Crema hidratante Nivea,10/4/2025,555,activo
+4,Crema antiarrugas L'Oréal,12/2/2024,725,activo
+5,Crema antiarrugas L'Oréal,16/12/2024,206,inactivo
+2,Agua micelar Garnier,7/10/2024,790,activo
+2,Shampoo Pantene,5/4/2024,295,activo
+2,Desodorante Dove,12/5/2025,300,activo
+2,Perfume Chanel Nº5,25/1/2025,795,activo
+5,Shampoo Pantene,17/11/2024,315,inactivo
+2,Labial MAC Ruby Woo,3/6/2024,412,inactivo
+5,Perfume Chanel Nº5,14/9/2024,742,inactivo
+3,Labial MAC Ruby Woo,23/3/2025,491,activo
+4,Crema antiarrugas L'Oréal,19/10/2024,324,activo
+3,Agua micelar Garnier,12/7/2024,621,inactivo
+3,Body Splash Victoria's Secret,19/3/2025,701,inactivo
+1,,15/2/2025,565,inactivo
+5,Shampoo Pantene,25/8/2024,233,inactivo
+5,Desodorante Dove,14/6/2025,235,inactivo
+2,Perfume Carolina Herrera 212,9/9/2024,400,activo
+2,Desodorante Dove,26/4/2024,320,activo
+3,Base Maybelline Fit Me,18/6/2024,207,inactivo
+4,Crema hidratante Nivea,14/6/2024,343,activo
+2,Base Maybelline Fit Me,11/2/2025,223,activo
+5,Agua micelar Garnier,18/4/2025,,inactivo
+3,Desodorante Dove,6/10/2024,384,activo
+5,Perfume Carolina Herrera 212,5/10/2024,657,activo
+5,Crema antiarrugas L'Oréal,2/8/2024,,inactivo
+3,Crema hidratante Nivea,11/2/2025,557,inactivo
+1,Perfume Chanel Nº5,12/12/2024,559,inactivo
+4,Body Splash Victoria's Secret,23/6/2025,311,inactivo
+1,Labial MAC Ruby Woo,22/1/2025,689,inactivo
+4,Perfume Chanel Nº5,3/6/2024,679,inactivo
+4,Perfume Chanel Nº5,26/5/2024,775,inactivo
+5,Perfume Carolina Herrera 212,30/10/2024,544,activo
+3,Perfume Chanel Nº5,6/6/2025,310,inactivo
+1,Body Splash Victoria's Secret,12/3/2024,713,activo
+1,Shampoo Pantene,26/5/2024,234,inactivo
+5,Labial MAC Ruby Woo,23/10/2024,339,activo
+3,Body Splash Victoria's Secret,27/5/2024,621,inactivo
+2,Shampoo Pantene,4/5/2025,245,activo
+1,Perfume Chanel Nº5,20/2/2024,494,inactivo
+3,Shampoo Pantene,30/5/2024,375,activo
+1,Shampoo Pantene,15/7/2024,413,inactivo
+1,Body Splash Victoria's Secret,18/1/2025,468,inactivo
+2,Crema antiarrugas L'Oréal,19/4/2024,,activo
+1,Perfume Carolina Herrera 212,11/11/2024,259,activo
+1,Shampoo Pantene,2/7/2024,746,inactivo
+5,Body Splash Victoria's Secret,28/8/2024,233,activo
+1,Base Maybelline Fit Me,19/2/2024,701,inactivo
+5,Agua micelar Garnier,22/1/2025,796,inactivo
+4,Body Splash Victoria's Secret,12/2/2024,362,inactivo
+4,Desodorante Dove,15/2/2025,270,activo
+1,Body Splash Victoria's Secret,22/5/2024,604,activo
+3,Crema hidratante Nivea,19/1/2024,609,activo
+5,Shampoo Pantene,8/2/2025,233,activo
+1,Crema hidratante Nivea,21/4/2024,394,activo
+1,Base Maybelline Fit Me,7/9/2024,283,activo
+1,Desodorante Dove,30/1/2024,723,inactivo
+2,Shampoo Pantene,12/5/2025,484,activo
+3,Desodorante Dove,19/3/2024,722,activo
+3,Perfume Carolina Herrera 212,18/2/2025,538,inactivo
+4,Crema hidratante Nivea,3/3/2024,692,activo
+1,Shampoo Pantene,6/7/2024,794,inactivo
+2,Labial MAC Ruby Woo,5/4/2024,455,activo
+2,Perfume Chanel Nº5,14/6/2025,713,activo
+4,Body Splash Victoria's Secret,23/6/2024,549,inactivo
+5,Crema hidratante Nivea,23/10/2024,414,activo
+2,Agua micelar Garnier,23/3/2025,799,activo
+2,Perfume Carolina Herrera 212,30/7/2024,619,activo
+3,Crema antiarrugas L'Oréal,14/10/2024,525,inactivo
+1,Perfume Chanel Nº5,25/12/2024,728,inactivo
+1,Base Maybelline Fit Me,5/5/2024,214,activo
+1,Desodorante Dove,19/3/2024,750,activo
+3,Labial MAC Ruby Woo,28/3/2025,632,activo
+1,Crema antiarrugas L'Oréal,20/7/2024,650,activo
+5,Shampoo Pantene,7/12/2024,221,activo
+4,Agua micelar Garnier,17/1/2025,768,activo
+2,Shampoo Pantene,29/7/2024,532,inactivo
+2,Crema antiarrugas L'Oréal,30/1/2025,727,inactivo
+3,,5/12/2024,282,activo
+2,Body Splash Victoria's Secret,17/5/2025,435,inactivo
+5,Agua micelar Garnier,4/4/2024,653,inactivo
+1,Body Splash Victoria's Secret,25/4/2024,246,inactivo
+4,Agua micelar Garnier,9/11/2024,775,inactivo
+3,Agua micelar Garnier,5/7/2024,730,inactivo
+2,Desodorante Dove,29/5/2025,305,inactivo
+2,Agua micelar Garnier,22/2/2024,386,activo
+3,Base Maybelline Fit Me,30/4/2025,462,inactivo
+5,Perfume Chanel Nº5,1/2/2025,340,activo
+1,Shampoo Pantene,5/4/2025,253,activo
+5,Labial MAC Ruby Woo,14/11/2024,648,inactivo
+4,Shampoo Pantene,10/6/2024,738,inactivo
+2,Crema antiarrugas L'Oréal,12/1/2024,309,activo
+4,Shampoo Pantene,25/4/2025,410,activo
+1,Labial MAC Ruby Woo,30/10/2024,796,activo
+3,,7/12/2024,590,activo
+1,Desodorante Dove,10/2/2025,755,inactivo
+3,Crema hidratante Nivea,1/10/2024,700,activo
+3,Labial MAC Ruby Woo,22/4/2025,783,activo
+3,Body Splash Victoria's Secret,19/8/2024,595,activo
+3,Perfume Carolina Herrera 212,27/1/2025,,activo
+5,Perfume Chanel Nº5,15/11/2024,580,inactivo
+2,Desodorante Dove,6/3/2024,466,activo
+1,Desodorante Dove,1/9/2024,413,activo
+3,Perfume Carolina Herrera 212,25/3/2025,579,activo
+2,Shampoo Pantene,17/1/2024,654,inactivo
+1,Perfume Carolina Herrera 212,5/2/2024,354,inactivo
+3,,8/6/2024,716,inactivo
+1,Agua micelar Garnier,17/1/2025,250,activo
+2,Desodorante Dove,24/9/2024,268,activo
+1,Base Maybelline Fit Me,23/2/2025,253,inactivo
+1,Crema hidratante Nivea,4/2/2024,557,inactivo
+5,Crema hidratante Nivea,5/2/2025,651,activo
+1,Shampoo Pantene,30/12/2024,665,activo
+1,Base Maybelline Fit Me,30/12/2024,538,inactivo
+5,Crema hidratante Nivea,9/7/2024,732,activo
+1,Base Maybelline Fit Me,23/1/2025,718,activo
+3,Shampoo Pantene,20/5/2025,627,activo
+1,Crema hidratante Nivea,31/10/2024,775,inactivo
+2,Body Splash Victoria's Secret,25/4/2025,293,activo
+2,Body Splash Victoria's Secret,22/3/2024,507,inactivo
+1,Body Splash Victoria's Secret,6/9/2024,211,activo
+2,Labial MAC Ruby Woo,13/9/2024,,inactivo
+4,Body Splash Victoria's Secret,17/11/2024,525,activo
+2,Perfume Chanel Nº5,23/3/2024,366,activo
+4,Base Maybelline Fit Me,6/10/2024,659,inactivo
+3,Labial MAC Ruby Woo,18/8/2024,704,inactivo
+5,Shampoo Pantene,22/2/2024,403,activo
+5,Base Maybelline Fit Me,31/5/2025,272,inactivo
+2,Desodorante Dove,26/10/2024,737,activo
+2,Perfume Carolina Herrera 212,8/4/2025,680,activo
+2,Perfume Chanel Nº5,20/5/2025,618,inactivo
+1,Shampoo Pantene,8/11/2024,405,activo
+1,Desodorante Dove,27/3/2025,710,inactivo
+3,Labial MAC Ruby Woo,2/2/2025,467,inactivo
+1,Shampoo Pantene,2/5/2025,313,inactivo
+1,Desodorante Dove,24/6/2025,713,activo
+4,Agua micelar Garnier,6/8/2024,759,activo
+4,Crema antiarrugas L'Oréal,13/5/2024,551,activo
+4,Shampoo Pantene,27/5/2024,607,activo
+4,Desodorante Dove,4/9/2024,671,activo
+5,Agua micelar Garnier,24/9/2024,427,activo
+5,,22/1/2024,360,inactivo
+4,Body Splash Victoria's Secret,23/4/2024,407,inactivo
+4,Agua micelar Garnier,13/6/2024,651,activo
+3,Crema antiarrugas L'Oréal,11/6/2025,367,activo
+4,Labial MAC Ruby Woo,28/9/2024,531,activo
+2,Perfume Chanel Nº5,19/5/2024,644,activo
+4,Labial MAC Ruby Woo,25/3/2024,510,inactivo
+4,Crema hidratante Nivea,28/3/2025,353,inactivo
+3,Agua micelar Garnier,31/1/2025,668,activo
+5,Labial MAC Ruby Woo,4/5/2025,751,inactivo
+5,Crema hidratante Nivea,21/9/2024,759,inactivo
+5,Body Splash Victoria's Secret,4/5/2024,512,activo
+3,Desodorante Dove,9/4/2025,689,inactivo
+3,,16/5/2024,502,activo
+1,Labial MAC Ruby Woo,12/5/2025,735,activo
+5,Body Splash Victoria's Secret,9/2/2024,,inactivo
+3,Crema antiarrugas L'Oréal,27/10/2024,414,inactivo
+2,Base Maybelline Fit Me,27/12/2024,731,activo
+1,Labial MAC Ruby Woo,23/11/2024,504,inactivo
+3,Shampoo Pantene,5/4/2024,729,activo
+3,Base Maybelline Fit Me,9/5/2024,601,activo
+1,Crema antiarrugas L'Oréal,6/10/2024,729,activo
+3,Desodorante Dove,19/1/2025,678,inactivo
+4,Agua micelar Garnier,26/1/2025,634,inactivo
+4,,2/6/2025,562,inactivo
+3,Crema antiarrugas L'Oréal,27/10/2024,729,inactivo
+4,Body Splash Victoria's Secret,7/2/2024,726,activo
+4,Perfume Carolina Herrera 212,4/12/2024,371,activo
+1,Crema antiarrugas L'Oréal,5/5/2024,282,activo
+4,Shampoo Pantene,31/3/2025,294,activo
+2,Base Maybelline Fit Me,15/10/2024,745,inactivo
+2,Perfume Carolina Herrera 212,14/7/2024,254,inactivo
+3,Desodorante Dove,1/4/2024,557,activo
+1,Shampoo Pantene,25/7/2024,275,activo
+1,Crema antiarrugas L'Oréal,25/6/2025,257,inactivo
+3,Perfume Chanel Nº5,30/6/2025,538,inactivo
+1,Desodorante Dove,12/4/2025,724,inactivo
+4,Perfume Chanel Nº5,23/1/2024,572,inactivo
+3,,22/6/2024,,activo
+4,Body Splash Victoria's Secret,9/5/2024,231,inactivo
+3,Crema hidratante Nivea,10/4/2024,495,activo
+4,Labial MAC Ruby Woo,15/8/2024,343,inactivo
+4,Body Splash Victoria's Secret,17/11/2024,303,activo
+5,Base Maybelline Fit Me,22/2/2025,611,inactivo
+1,Base Maybelline Fit Me,22/2/2025,520,inactivo
+3,Base Maybelline Fit Me,10/6/2025,410,activo
+4,Perfume Chanel Nº5,1/3/2025,461,inactivo
+4,Labial MAC Ruby Woo,23/1/2024,665,activo
+5,Base Maybelline Fit Me,21/2/2024,,activo
+3,Crema antiarrugas L'Oréal,3/1/2025,403,activo
+4,Crema antiarrugas L'Oréal,29/1/2025,765,inactivo
+3,Base Maybelline Fit Me,7/4/2024,460,activo
+4,Base Maybelline Fit Me,27/4/2025,426,inactivo
+1,Base Maybelline Fit Me,13/6/2024,706,activo
+4,Agua micelar Garnier,12/2/2024,640,activo
+1,Perfume Chanel Nº5,1/2/2025,493,inactivo
+1,Perfume Carolina Herrera 212,14/9/2024,511,activo
+2,Agua micelar Garnier,22/12/2024,779,activo
+1,Shampoo Pantene,13/3/2024,435,inactivo
+4,Perfume Carolina Herrera 212,1/6/2025,217,activo
+4,Body Splash Victoria's Secret,16/5/2025,472,inactivo
+1,Labial MAC Ruby Woo,5/2/2024,243,inactivo
+4,,26/7/2024,264,inactivo
+3,Perfume Carolina Herrera 212,21/3/2025,571,inactivo
+5,Base Maybelline Fit Me,9/6/2025,290,activo
+1,Perfume Chanel Nº5,15/4/2025,324,inactivo
+1,Desodorante Dove,10/5/2025,799,activo
+1,Shampoo Pantene,23/1/2025,273,inactivo
+1,,29/10/2024,322,activo
+2,Base Maybelline Fit Me,8/5/2024,653,activo
+4,Shampoo Pantene,16/1/2024,561,inactivo
+3,Labial MAC Ruby Woo,13/4/2024,358,activo
+2,Body Splash Victoria's Secret,20/9/2024,664,activo
+4,Crema antiarrugas L'Oréal,11/5/2025,500,inactivo
+4,Perfume Carolina Herrera 212,12/8/2024,537,activo
+1,Desodorante Dove,19/2/2025,485,inactivo
+4,Base Maybelline Fit Me,15/9/2024,201,inactivo
+3,Shampoo Pantene,10/4/2024,401,activo
+3,Crema antiarrugas L'Oréal,24/2/2025,,activo
+2,Labial MAC Ruby Woo,16/2/2025,674,inactivo
+5,Shampoo Pantene,22/1/2025,335,inactivo
+3,Labial MAC Ruby Woo,14/6/2025,442,activo
+1,Crema hidratante Nivea,11/8/2024,408,activo
+1,Labial MAC Ruby Woo,23/12/2024,764,activo
+3,Agua micelar Garnier,14/2/2024,539,inactivo
+2,Body Splash Victoria's Secret,17/8/2024,424,inactivo
+3,Crema antiarrugas L'Oréal,6/7/2024,278,inactivo
+4,,27/5/2024,518,activo
+2,Desodorante Dove,2/4/2025,615,activo
+3,Crema hidratante Nivea,20/8/2024,232,activo
+4,Shampoo Pantene,7/10/2024,221,activo
+5,Labial MAC Ruby Woo,17/12/2024,549,activo
+4,Crema hidratante Nivea,13/7/2024,298,activo
+4,Perfume Chanel Nº5,1/9/2024,243,activo
+2,Perfume Carolina Herrera 212,27/8/2024,792,activo
+5,Agua micelar Garnier,28/6/2025,369,inactivo
+1,Shampoo Pantene,15/1/2024,749,activo
+5,Shampoo Pantene,21/10/2024,635,inactivo
+5,Labial MAC Ruby Woo,8/10/2024,725,inactivo
+3,Perfume Carolina Herrera 212,13/12/2024,798,inactivo
+2,Perfume Carolina Herrera 212,23/1/2025,540,inactivo
+1,Desodorante Dove,2/2/2024,221,inactivo
+1,Perfume Chanel Nº5,4/1/2024,798,inactivo
+1,Body Splash Victoria's Secret,16/4/2025,284,inactivo
+2,Perfume Chanel Nº5,28/7/2024,720,inactivo
+4,Crema antiarrugas L'Oréal,29/10/2024,428,activo
+3,Shampoo Pantene,13/6/2025,262,inactivo
+1,Base Maybelline Fit Me,18/5/2024,711,inactivo
+1,Body Splash Victoria's Secret,16/4/2024,326,inactivo
+1,Crema antiarrugas L'Oréal,15/8/2024,717,activo
+5,Agua micelar Garnier,1/7/2025,343,activo
+2,Body Splash Victoria's Secret,22/8/2024,418,activo
+1,Agua micelar Garnier,20/7/2024,761,activo
+3,Desodorante Dove,6/6/2024,341,activo
+5,Labial MAC Ruby Woo,20/6/2024,784,inactivo
+4,Labial MAC Ruby Woo,20/10/2024,513,activo
+5,Crema antiarrugas L'Oréal,1/4/2024,640,activo
+3,Desodorante Dove,14/4/2025,500,activo
+3,Agua micelar Garnier,1/12/2024,746,inactivo
+1,Perfume Chanel Nº5,4/4/2025,215,inactivo
+1,Crema hidratante Nivea,5/1/2024,683,inactivo
+4,Perfume Carolina Herrera 212,3/1/2025,390,inactivo
+2,Desodorante Dove,2/1/2025,206,activo
+4,Base Maybelline Fit Me,10/11/2024,446,inactivo
+3,Labial MAC Ruby Woo,12/2/2025,233,activo
+4,Base Maybelline Fit Me,26/1/2024,403,inactivo
+1,Base Maybelline Fit Me,28/11/2024,580,inactivo
+4,Perfume Chanel Nº5,21/3/2025,288,activo
+2,Agua micelar Garnier,19/3/2024,476,inactivo
+4,Desodorante Dove,11/2/2025,433,inactivo
+2,Shampoo Pantene,19/3/2025,790,activo
+1,Labial MAC Ruby Woo,16/7/2024,343,activo
+4,,16/4/2024,416,activo
+4,Perfume Carolina Herrera 212,26/5/2025,364,activo
+3,Body Splash Victoria's Secret,15/1/2024,560,activo
+5,Labial MAC Ruby Woo,28/6/2025,721,activo
+2,Perfume Chanel Nº5,27/6/2024,349,inactivo
+1,Body Splash Victoria's Secret,21/3/2024,640,activo
+2,Perfume Carolina Herrera 212,2/6/2025,523,inactivo
+5,Crema antiarrugas L'Oréal,29/9/2024,273,inactivo
+5,Crema hidratante Nivea,13/4/2024,655,activo
+2,Base Maybelline Fit Me,8/10/2024,628,activo
+2,Perfume Carolina Herrera 212,19/7/2024,570,activo
+4,Agua micelar Garnier,28/10/2024,763,inactivo
+4,Agua micelar Garnier,20/1/2025,626,activo
+1,Perfume Carolina Herrera 212,11/3/2025,356,inactivo
+1,,6/2/2024,248,activo
+2,Body Splash Victoria's Secret,31/3/2024,618,activo
+2,Perfume Carolina Herrera 212,21/8/2024,791,inactivo
+5,Crema antiarrugas L'Oréal,26/2/2025,615,activo
+4,Perfume Chanel Nº5,17/7/2024,442,inactivo
+5,Perfume Carolina Herrera 212,3/3/2024,476,activo
+4,Shampoo Pantene,30/11/2024,200,inactivo
+4,Crema hidratante Nivea,10/3/2025,749,activo
+1,Body Splash Victoria's Secret,24/4/2024,275,activo
+3,Crema hidratante Nivea,4/9/2024,679,inactivo
+5,Desodorante Dove,30/11/2024,229,inactivo
+2,Body Splash Victoria's Secret,12/5/2024,469,activo
+5,Crema hidratante Nivea,14/7/2024,296,inactivo
+2,Perfume Carolina Herrera 212,24/11/2024,279,activo
+2,Crema antiarrugas L'Oréal,16/12/2024,407,inactivo
+4,Perfume Chanel Nº5,27/1/2025,255,activo
+4,Crema hidratante Nivea,15/4/2025,701,activo
+2,Perfume Chanel Nº5,18/2/2024,288,activo
+4,Base Maybelline Fit Me,24/6/2024,268,activo
+5,Desodorante Dove,4/5/2024,621,inactivo
+5,Desodorante Dove,14/5/2024,233,activo
+2,Crema hidratante Nivea,18/4/2025,418,activo
+3,Body Splash Victoria's Secret,9/5/2025,341,activo
+1,Perfume Chanel Nº5,11/9/2024,605,inactivo
+2,Base Maybelline Fit Me,5/2/2024,560,activo
+1,Perfume Chanel Nº5,10/1/2025,375,activo
+5,Perfume Carolina Herrera 212,4/6/2024,450,inactivo
+1,Base Maybelline Fit Me,22/3/2024,726,activo
+5,Agua micelar Garnier,22/11/2024,554,activo
+4,Desodorante Dove,11/11/2024,445,inactivo
+2,Base Maybelline Fit Me,6/6/2024,410,inactivo
+2,Body Splash Victoria's Secret,6/3/2025,404,inactivo
+1,Labial MAC Ruby Woo,7/11/2024,485,inactivo
+5,Labial MAC Ruby Woo,1/6/2025,391,activo
+4,Crema hidratante Nivea,9/8/2024,498,activo
+3,Desodorante Dove,23/8/2024,347,activo
+2,Crema hidratante Nivea,6/1/2025,786,activo
+1,Base Maybelline Fit Me,11/8/2024,209,inactivo
+1,Base Maybelline Fit Me,31/3/2024,636,inactivo
+1,Crema antiarrugas L'Oréal,4/4/2025,669,inactivo
+1,Perfume Carolina Herrera 212,12/6/2024,542,inactivo
+3,Agua micelar Garnier,21/7/2024,639,activo
+4,Shampoo Pantene,12/6/2025,649,inactivo
+5,Perfume Chanel Nº5,8/9/2024,325,inactivo
+3,Agua micelar Garnier,7/3/2025,627,inactivo
+1,Labial MAC Ruby Woo,28/5/2025,386,inactivo
+5,Perfume Carolina Herrera 212,20/2/2024,569,inactivo
+4,Desodorante Dove,4/2/2025,648,inactivo
+3,Desodorante Dove,15/2/2025,743,activo
+4,Shampoo Pantene,26/2/2024,790,inactivo
+4,Perfume Carolina Herrera 212,25/3/2024,406,activo
+4,Base Maybelline Fit Me,9/2/2025,415,activo
+4,Shampoo Pantene,18/4/2024,254,activo
+3,Desodorante Dove,19/3/2024,300,inactivo
+3,Labial MAC Ruby Woo,19/12/2024,749,activo
+2,Body Splash Victoria's Secret,1/7/2024,591,activo
+4,Crema antiarrugas L'Oréal,1/10/2024,335,activo
+2,Crema antiarrugas L'Oréal,14/9/2024,289,activo
+5,Shampoo Pantene,2/2/2025,292,inactivo
+3,Agua micelar Garnier,10/4/2025,746,activo
+4,Crema hidratante Nivea,15/8/2024,738,inactivo
+4,Base Maybelline Fit Me,8/4/2024,684,inactivo
+3,Crema hidratante Nivea,4/3/2024,487,activo
+3,Crema hidratante Nivea,12/10/2024,745,activo
+3,Labial MAC Ruby Woo,17/12/2024,306,inactivo
+2,Agua micelar Garnier,22/2/2024,640,activo
+3,Base Maybelline Fit Me,24/5/2025,773,activo
+4,Perfume Carolina Herrera 212,18/5/2024,230,inactivo
+2,Agua micelar Garnier,7/7/2024,584,activo
+4,Agua micelar Garnier,30/3/2025,434,inactivo
+4,Shampoo Pantene,12/2/2025,521,activo
+5,Shampoo Pantene,10/7/2024,758,inactivo
+2,Crema hidratante Nivea,6/9/2024,358,inactivo
+1,Crema antiarrugas L'Oréal,17/10/2024,304,activo
+2,Perfume Chanel Nº5,15/11/2024,663,inactivo
+3,Shampoo Pantene,13/12/2024,582,inactivo
+2,Labial MAC Ruby Woo,6/8/2024,537,inactivo
+5,Body Splash Victoria's Secret,16/2/2025,618,activo
+1,Perfume Carolina Herrera 212,1/10/2024,567,inactivo
+3,Perfume Chanel Nº5,11/1/2024,216,inactivo
+2,Body Splash Victoria's Secret,14/1/2024,520,activo
+4,Body Splash Victoria's Secret,23/6/2025,408,activo
+4,Crema hidratante Nivea,10/11/2024,400,activo
+1,Labial MAC Ruby Woo,28/6/2025,452,activo
+5,Base Maybelline Fit Me,19/8/2024,409,inactivo
+2,Shampoo Pantene,13/1/2025,569,inactivo
+4,Shampoo Pantene,5/5/2024,645,activo
+2,Crema antiarrugas L'Oréal,9/1/2024,734,inactivo
+3,Crema hidratante Nivea,30/4/2024,298,activo
+1,Base Maybelline Fit Me,11/1/2025,701,activo
+3,Labial MAC Ruby Woo,9/9/2024,419,inactivo
+1,Labial MAC Ruby Woo,5/11/2024,761,inactivo
+4,Labial MAC Ruby Woo,26/7/2024,338,activo
+1,Crema antiarrugas L'Oréal,29/7/2024,736,activo
+2,Shampoo Pantene,14/10/2024,,inactivo
+5,,1/2/2025,583,inactivo
+1,Agua micelar Garnier,14/2/2025,768,inactivo
+1,Crema hidratante Nivea,24/5/2024,598,inactivo
+3,Labial MAC Ruby Woo,20/8/2024,499,activo
+5,Perfume Carolina Herrera 212,24/6/2025,763,activo
+1,Base Maybelline Fit Me,12/11/2024,780,inactivo
+4,Crema hidratante Nivea,6/2/2024,740,activo
+1,Shampoo Pantene,8/3/2025,635,activo
+5,Perfume Carolina Herrera 212,2/4/2024,653,activo
+4,Crema hidratante Nivea,18/12/2024,286,activo
+2,Perfume Carolina Herrera 212,29/10/2024,273,activo
+4,Perfume Chanel Nº5,8/5/2024,663,activo
+1,Agua micelar Garnier,27/4/2024,247,inactivo
+4,Perfume Carolina Herrera 212,1/11/2024,307,activo
+4,Agua micelar Garnier,25/5/2024,482,activo
+3,Body Splash Victoria's Secret,15/3/2025,490,inactivo
+1,Labial MAC Ruby Woo,23/4/2024,595,inactivo
+1,Crema antiarrugas L'Oréal,6/9/2024,,activo
+1,Crema hidratante Nivea,27/4/2025,212,activo
+4,Crema hidratante Nivea,7/9/2024,205,activo
+2,Agua micelar Garnier,8/12/2024,462,activo
+4,Shampoo Pantene,12/4/2025,263,activo
+2,Body Splash Victoria's Secret,28/1/2025,216,activo
+4,Perfume Chanel Nº5,7/5/2024,641,inactivo
+1,Crema hidratante Nivea,23/7/2024,,inactivo
+3,Body Splash Victoria's Secret,13/5/2025,393,inactivo
+2,Agua micelar Garnier,5/2/2025,373,inactivo
+1,Body Splash Victoria's Secret,22/1/2025,789,inactivo
+3,Agua micelar Garnier,3/3/2025,230,inactivo
+4,Desodorante Dove,20/1/2025,,activo
+5,,30/3/2025,483,inactivo
+2,Labial MAC Ruby Woo,24/7/2024,711,inactivo
+3,Base Maybelline Fit Me,25/4/2025,311,inactivo
+4,Perfume Carolina Herrera 212,13/4/2024,525,inactivo
+3,Crema antiarrugas L'Oréal,27/3/2024,211,activo
+2,Desodorante Dove,22/7/2024,799,inactivo
+3,Desodorante Dove,6/12/2024,270,inactivo
+5,Labial MAC Ruby Woo,16/6/2025,255,inactivo
+5,Perfume Chanel Nº5,10/12/2024,290,activo
+3,Perfume Chanel Nº5,21/5/2025,743,inactivo
+1,Shampoo Pantene,17/4/2025,412,inactivo
+5,,29/9/2024,338,inactivo
+3,Agua micelar Garnier,30/9/2024,791,inactivo
+2,Labial MAC Ruby Woo,28/3/2025,,inactivo
+3,Shampoo Pantene,11/3/2025,638,inactivo
+5,Agua micelar Garnier,30/5/2024,573,inactivo
+1,Perfume Carolina Herrera 212,7/1/2024,259,activo
+4,Base Maybelline Fit Me,17/7/2024,350,inactivo
+1,Crema hidratante Nivea,26/3/2024,247,inactivo
+2,Desodorante Dove,26/1/2025,613,inactivo
+5,Shampoo Pantene,17/8/2024,417,inactivo
+2,Base Maybelline Fit Me,25/11/2024,711,inactivo
+5,Body Splash Victoria's Secret,21/7/2024,543,activo
+1,Labial MAC Ruby Woo,12/11/2024,411,activo
+2,Crema hidratante Nivea,18/3/2024,440,activo
+1,Shampoo Pantene,28/1/2025,722,inactivo
+4,Body Splash Victoria's Secret,2/6/2024,651,inactivo
+4,Labial MAC Ruby Woo,27/4/2025,210,activo
+5,,24/8/2024,218,inactivo
+5,Shampoo Pantene,26/5/2024,722,inactivo
+3,Base Maybelline Fit Me,22/2/2025,334,activo
+4,Perfume Carolina Herrera 212,1/5/2025,501,inactivo
+1,Crema hidratante Nivea,14/3/2025,285,activo
+3,Body Splash Victoria's Secret,5/4/2025,601,inactivo
+4,Crema hidratante Nivea,12/4/2025,523,activo
+2,Labial MAC Ruby Woo,13/4/2025,629,activo
+1,Labial MAC Ruby Woo,2/7/2024,679,activo
+1,Crema antiarrugas L'Oréal,5/6/2025,593,activo
+1,Crema antiarrugas L'Oréal,6/4/2025,640,activo
+5,Desodorante Dove,17/2/2025,658,inactivo
+2,Crema hidratante Nivea,20/4/2025,711,inactivo
+1,Agua micelar Garnier,26/6/2025,664,inactivo
+5,,18/4/2024,257,inactivo
+3,Body Splash Victoria's Secret,2/9/2024,384,inactivo
+1,Shampoo Pantene,23/1/2025,342,activo
+2,Desodorante Dove,24/12/2024,671,activo
+2,Body Splash Victoria's Secret,16/1/2025,333,activo
+5,Perfume Chanel Nº5,10/4/2024,369,inactivo
+2,Crema antiarrugas L'Oréal,30/3/2025,477,inactivo
+3,Perfume Carolina Herrera 212,4/5/2025,399,inactivo
+1,Body Splash Victoria's Secret,10/10/2024,631,activo
+4,Agua micelar Garnier,18/3/2024,265,activo
+2,Crema hidratante Nivea,4/4/2025,359,inactivo
+1,Labial MAC Ruby Woo,29/4/2025,513,inactivo
+3,Perfume Carolina Herrera 212,7/10/2024,464,inactivo
+3,Labial MAC Ruby Woo,2/2/2024,325,activo
+5,Agua micelar Garnier,25/2/2024,403,activo
+3,Base Maybelline Fit Me,12/3/2025,363,inactivo
+2,,27/4/2025,,activo
+4,Shampoo Pantene,9/4/2025,259,inactivo
+5,Desodorante Dove,11/1/2024,628,activo
+1,Base Maybelline Fit Me,17/12/2024,478,inactivo
+1,Body Splash Victoria's Secret,22/1/2024,325,activo
+2,Shampoo Pantene,22/5/2025,394,inactivo
+4,Base Maybelline Fit Me,28/11/2024,255,activo
+3,Body Splash Victoria's Secret,30/1/2024,615,activo
+3,Desodorante Dove,8/3/2025,235,inactivo
+5,Crema hidratante Nivea,20/4/2024,388,inactivo
+5,Body Splash Victoria's Secret,12/8/2024,260,inactivo
+4,Agua micelar Garnier,2/3/2024,570,inactivo
+3,Agua micelar Garnier,9/5/2024,644,inactivo
+5,Perfume Chanel Nº5,2/3/2025,348,activo
+1,Crema hidratante Nivea,22/12/2024,343,activo
+1,Agua micelar Garnier,2/12/2024,233,activo
+4,,30/6/2024,734,inactivo
+3,Shampoo Pantene,3/6/2024,730,inactivo
+4,Base Maybelline Fit Me,10/2/2024,345,activo
+3,Labial MAC Ruby Woo,15/2/2024,466,inactivo
+2,Crema hidratante Nivea,22/3/2025,305,activo
+5,Crema hidratante Nivea,12/3/2024,345,activo
+5,Shampoo Pantene,18/10/2024,594,inactivo
+5,Base Maybelline Fit Me,29/4/2024,753,activo
+2,Shampoo Pantene,27/12/2024,749,inactivo
+2,Shampoo Pantene,1/6/2024,697,activo
+5,Perfume Chanel Nº5,1/5/2025,508,inactivo
+5,Base Maybelline Fit Me,16/2/2024,622,inactivo
+2,Crema antiarrugas L'Oréal,12/5/2024,255,activo
+2,Labial MAC Ruby Woo,10/4/2024,436,inactivo
+4,Base Maybelline Fit Me,19/4/2025,452,inactivo
+5,Labial MAC Ruby Woo,15/4/2025,251,activo
+5,Crema antiarrugas L'Oréal,19/11/2024,,inactivo
+4,Base Maybelline Fit Me,18/1/2024,735,activo
+5,Desodorante Dove,27/3/2025,769,activo
+5,Desodorante Dove,21/1/2025,536,inactivo
+4,Perfume Chanel Nº5,18/6/2024,216,activo
+4,Shampoo Pantene,8/7/2024,582,activo
+1,Agua micelar Garnier,15/11/2024,720,activo
+1,Desodorante Dove,15/6/2024,409,inactivo
+1,Base Maybelline Fit Me,18/4/2024,350,inactivo
+4,Perfume Chanel Nº5,17/2/2025,452,activo
+3,Body Splash Victoria's Secret,16/2/2025,232,activo
+4,Crema hidratante Nivea,25/3/2024,560,inactivo
+4,Shampoo Pantene,5/2/2025,565,inactivo
+2,Crema antiarrugas L'Oréal,22/3/2025,541,activo
+1,Crema hidratante Nivea,30/12/2024,407,inactivo
+2,Base Maybelline Fit Me,20/3/2025,779,activo
+2,Perfume Chanel Nº5,7/12/2024,364,activo
+2,Body Splash Victoria's Secret,21/5/2024,652,activo
+2,Crema hidratante Nivea,28/12/2024,337,activo
+2,Body Splash Victoria's Secret,28/5/2025,540,inactivo
+4,Perfume Carolina Herrera 212,22/2/2024,,inactivo
+5,Crema antiarrugas L'Oréal,5/9/2024,336,inactivo
+4,Body Splash Victoria's Secret,3/2/2024,789,inactivo
+2,Crema antiarrugas L'Oréal,19/6/2025,380,activo
+3,Perfume Carolina Herrera 212,31/1/2025,622,activo
+1,Shampoo Pantene,16/12/2024,,activo
+5,Shampoo Pantene,21/2/2024,233,activo
+2,Perfume Chanel Nº5,23/12/2024,597,activo
+4,Shampoo Pantene,27/6/2025,247,inactivo
+1,Perfume Chanel Nº5,13/1/2025,393,inactivo
+1,Crema antiarrugas L'Oréal,4/12/2024,,inactivo
+1,Crema hidratante Nivea,15/2/2025,397,inactivo
+3,Crema antiarrugas L'Oréal,1/10/2024,277,activo
+1,Crema hidratante Nivea,27/3/2025,335,inactivo
+5,Perfume Carolina Herrera 212,16/12/2024,,inactivo
+1,,13/8/2024,341,activo
+5,Shampoo Pantene,29/2/2024,653,inactivo
+3,Agua micelar Garnier,9/1/2024,678,inactivo
+1,Body Splash Victoria's Secret,28/4/2024,635,inactivo
+3,Body Splash Victoria's Secret,16/5/2024,362,activo
+3,Base Maybelline Fit Me,3/11/2024,450,activo
+2,Crema antiarrugas L'Oréal,21/4/2025,307,inactivo
+1,Agua micelar Garnier,7/2/2024,418,inactivo
+2,Base Maybelline Fit Me,1/5/2024,342,activo
+1,Desodorante Dove,24/12/2024,383,activo
+3,Perfume Carolina Herrera 212,3/6/2025,251,inactivo
+2,Labial MAC Ruby Woo,6/8/2024,460,inactivo
+2,Base Maybelline Fit Me,21/4/2024,213,activo
+1,Perfume Carolina Herrera 212,18/4/2024,693,inactivo
+5,Agua micelar Garnier,25/6/2024,469,inactivo
+3,Crema antiarrugas L'Oréal,2/4/2024,408,inactivo
+5,Perfume Chanel Nº5,18/5/2025,523,activo
+4,Desodorante Dove,20/5/2025,424,activo
+5,Shampoo Pantene,24/4/2025,506,inactivo
+3,Desodorante Dove,5/3/2024,382,activo
+1,Body Splash Victoria's Secret,25/2/2024,271,activo
+4,Desodorante Dove,2/9/2024,,inactivo
+1,Crema hidratante Nivea,14/6/2025,501,activo
+1,Crema antiarrugas L'Oréal,1/2/2024,321,inactivo
+2,Labial MAC Ruby Woo,29/5/2025,406,inactivo
+5,Desodorante Dove,15/4/2024,400,activo
+3,Base Maybelline Fit Me,3/4/2025,591,inactivo
+2,Labial MAC Ruby Woo,16/5/2025,250,inactivo
+3,Desodorante Dove,30/7/2024,,inactivo
+1,Perfume Chanel Nº5,29/11/2024,757,activo
+5,Desodorante Dove,22/4/2025,614,inactivo
+2,Labial MAC Ruby Woo,4/2/2025,760,activo
+2,Perfume Carolina Herrera 212,6/2/2025,,inactivo
+5,Agua micelar Garnier,11/5/2025,501,inactivo
+3,Perfume Carolina Herrera 212,6/11/2024,350,activo
+4,Body Splash Victoria's Secret,25/1/2025,509,activo
+2,Agua micelar Garnier,26/7/2024,403,activo
+1,Desodorante Dove,13/12/2024,235,inactivo
+2,Desodorante Dove,26/8/2024,220,inactivo
+1,Crema antiarrugas L'Oréal,15/7/2024,344,activo
+3,Perfume Chanel Nº5,4/3/2024,318,inactivo
+4,Perfume Carolina Herrera 212,20/3/2024,334,activo
+2,Desodorante Dove,28/10/2024,362,activo
+3,Labial MAC Ruby Woo,22/6/2024,353,activo
+5,Labial MAC Ruby Woo,28/12/2024,786,inactivo
+3,Desodorante Dove,13/6/2025,698,inactivo
+5,Perfume Chanel Nº5,11/6/2025,392,inactivo
+1,Crema hidratante Nivea,21/5/2025,290,activo
+5,Body Splash Victoria's Secret,24/5/2024,629,activo
+4,Perfume Chanel Nº5,23/3/2025,235,activo
+5,Perfume Carolina Herrera 212,20/6/2025,331,inactivo
+4,Crema hidratante Nivea,4/4/2024,201,inactivo
+2,,17/2/2025,397,activo
+3,Agua micelar Garnier,9/5/2024,567,activo
+3,Crema antiarrugas L'Oréal,8/3/2024,246,activo
+3,Labial MAC Ruby Woo,27/7/2024,340,inactivo
+5,Perfume Carolina Herrera 212,13/4/2024,224,inactivo
+1,Labial MAC Ruby Woo,13/1/2025,240,inactivo
+1,Base Maybelline Fit Me,10/1/2025,505,activo
+2,Crema antiarrugas L'Oréal,7/1/2024,551,activo
+1,Perfume Chanel Nº5,27/9/2024,592,inactivo
+5,Crema hidratante Nivea,15/1/2024,287,activo
+5,Shampoo Pantene,13/5/2024,450,inactivo
+3,Body Splash Victoria's Secret,9/11/2024,756,activo
+2,Crema hidratante Nivea,22/5/2024,274,activo
+3,Shampoo Pantene,28/11/2024,590,activo
+3,Agua micelar Garnier,14/9/2024,732,activo
+1,Base Maybelline Fit Me,13/11/2024,475,inactivo
+2,Shampoo Pantene,16/11/2024,715,inactivo
+3,Perfume Chanel Nº5,6/6/2024,782,activo
+1,Perfume Chanel Nº5,8/6/2025,311,activo
+5,Perfume Chanel Nº5,15/2/2025,448,inactivo
+4,Perfume Chanel Nº5,19/12/2024,521,inactivo
+5,Agua micelar Garnier,29/4/2025,632,activo
+2,Crema antiarrugas L'Oréal,17/11/2024,692,inactivo
+4,Labial MAC Ruby Woo,2/8/2024,761,activo
+2,Base Maybelline Fit Me,4/3/2025,283,activo
+3,Crema hidratante Nivea,27/2/2024,331,inactivo
+1,Perfume Carolina Herrera 212,17/2/2024,548,activo
+1,Desodorante Dove,15/3/2024,,inactivo
+3,Body Splash Victoria's Secret,10/2/2025,632,inactivo
+5,Body Splash Victoria's Secret,12/5/2025,560,activo
+5,Desodorante Dove,23/5/2024,520,activo
+5,Crema antiarrugas L'Oréal,16/1/2025,690,activo
+4,Base Maybelline Fit Me,20/6/2025,623,activo
+2,Body Splash Victoria's Secret,3/2/2024,,inactivo
+4,Shampoo Pantene,23/6/2024,443,inactivo
+2,Crema hidratante Nivea,4/5/2024,753,inactivo
+4,Shampoo Pantene,2/2/2024,788,inactivo
+5,Body Splash Victoria's Secret,3/2/2025,283,inactivo
+4,Agua micelar Garnier,31/3/2025,494,inactivo
+2,Crema hidratante Nivea,10/7/2024,406,inactivo
+1,Perfume Chanel Nº5,16/4/2024,472,inactivo
+4,Perfume Carolina Herrera 212,31/5/2025,504,inactivo
+1,Desodorante Dove,17/3/2024,456,inactivo
+4,Labial MAC Ruby Woo,25/5/2024,439,activo
+3,Crema hidratante Nivea,18/1/2024,718,inactivo
+1,Labial MAC Ruby Woo,25/10/2024,563,activo
+2,Crema hidratante Nivea,3/12/2024,374,inactivo
+2,Body Splash Victoria's Secret,4/7/2024,547,inactivo
+2,Shampoo Pantene,17/4/2025,237,inactivo
+4,Body Splash Victoria's Secret,2/4/2024,632,activo
+4,Labial MAC Ruby Woo,10/2/2025,253,inactivo
+5,Perfume Carolina Herrera 212,24/1/2024,388,inactivo
+2,Crema hidratante Nivea,26/3/2024,,inactivo
+4,,16/3/2024,204,activo
+2,Crema antiarrugas L'Oréal,28/1/2025,718,activo
+1,Base Maybelline Fit Me,19/10/2024,328,inactivo
+5,,19/1/2024,,inactivo
+4,Perfume Chanel Nº5,18/6/2024,236,activo
+5,Perfume Chanel Nº5,11/5/2024,458,inactivo
+5,Crema antiarrugas L'Oréal,8/3/2024,455,activo
+2,Base Maybelline Fit Me,22/4/2025,701,inactivo
+3,Agua micelar Garnier,6/3/2024,315,inactivo
+1,Body Splash Victoria's Secret,6/3/2025,631,inactivo
+3,Perfume Chanel Nº5,26/8/2024,375,activo
+1,Perfume Carolina Herrera 212,6/4/2025,224,activo
+1,Labial MAC Ruby Woo,17/6/2024,583,activo
+1,Crema hidratante Nivea,30/1/2025,350,inactivo
+1,Base Maybelline Fit Me,15/7/2024,637,activo
+2,Crema antiarrugas L'Oréal,24/2/2025,665,activo
+1,Base Maybelline Fit Me,16/7/2024,620,inactivo
+5,Desodorante Dove,4/6/2025,212,inactivo
+1,Crema antiarrugas L'Oréal,18/7/2024,413,activo
+4,,7/2/2025,723,activo
+5,Agua micelar Garnier,1/5/2025,306,inactivo
+2,Shampoo Pantene,31/12/2024,339,inactivo
